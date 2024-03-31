@@ -1,0 +1,16 @@
+../drivers/src/stm32f407xx_spi_driver.c:14:13:SPI_Close_Tx	1
+../drivers/src/stm32f407xx_spi_driver.c:22:13:SPI_Close_Rx	1
+../drivers/src/stm32f407xx_spi_driver.c:37:6:SPI_PeriClockControl	9
+../drivers/src/stm32f407xx_spi_driver.c:67:6:SPI_Init	4
+../drivers/src/stm32f407xx_spi_driver.c:121:6:SPI_PeripheralControl	3
+../drivers/src/stm32f407xx_spi_driver.c:133:6:SPI_SSI_Config	3
+../drivers/src/stm32f407xx_spi_driver.c:142:6:SPI_Config_SSOE	3
+../drivers/src/stm32f407xx_spi_driver.c:162:6:SPI_DeInit	4
+../drivers/src/stm32f407xx_spi_driver.c:180:6:SPI_SendData	4
+../drivers/src/stm32f407xx_spi_driver.c:212:6:SPI_ReceiveData	4
+../drivers/src/stm32f407xx_spi_driver.c:232:6:SPI_SendData_it	2
+../drivers/src/stm32f407xx_spi_driver.c:249:6:SPI_ReceiveData_it	2
+../drivers/src/stm32f407xx_spi_driver.c:269:6:SPI_IRQinterruptConfig	13
+../drivers/src/stm32f407xx_spi_driver.c:299:6:SPI_InterruptPriority	1
+../drivers/src/stm32f407xx_spi_driver.c:314:6:SPI_IRQHandling	14
+../drivers/src/stm32f407xx_spi_driver.c:378:13:SPI_ApplicationEventCallback	1

@@ -1,0 +1,11 @@
+../drivers/src/stm32f407xx_gpio_driver.c:19:6:GPIO_Init	14
+../drivers/src/stm32f407xx_gpio_driver.c:112:6:GPIO_DeInit	10
+../drivers/src/stm32f407xx_gpio_driver.c:143:6:GPIO_PeriClock_Control	21
+../drivers/src/stm32f407xx_gpio_driver.c:198:9:GPIO_ReadFromPin	1
+../drivers/src/stm32f407xx_gpio_driver.c:215:10:GPIO_ReadFromPort	1
+../drivers/src/stm32f407xx_gpio_driver.c:234:6:GPIO_WriteToPin	3
+../drivers/src/stm32f407xx_gpio_driver.c:255:6:GPIO_WriteToPort	1
+../drivers/src/stm32f407xx_gpio_driver.c:268:6:GPIO_IRQ_Config_ENorDI	13
+../drivers/src/stm32f407xx_gpio_driver.c:313:6:GPIO_IRQ_Priority_Config	1
+../drivers/src/stm32f407xx_gpio_driver.c:329:6:GPIO_IRQ_Handling	2
+../drivers/src/stm32f407xx_gpio_driver.c:350:6:GPIO_Toggle	1

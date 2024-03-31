@@ -1,0 +1,7 @@
+../drivers/src/stm32f407xx_i2c_driver.c:20:17:RCC_GetPclk1Value	8
+../drivers/src/stm32f407xx_i2c_driver.c:57:17:calculateCCRVal	5
+../drivers/src/stm32f407xx_i2c_driver.c:80:13:I2C_Clock_Peripheral	9
+../drivers/src/stm32f407xx_i2c_driver.c:102:13:I2C_WriteAddrAndReadNWrite	6
+../drivers/src/stm32f407xx_i2c_driver.c:138:6:I2C_Init	7
+../drivers/src/stm32f407xx_i2c_driver.c:210:6:I2C_MasterTx	7
+../drivers/src/stm32f407xx_i2c_driver.c:256:6:I2C_MasterRx	10
